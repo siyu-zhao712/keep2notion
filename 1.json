@@ -7,12 +7,12 @@
             "birthday": 837129600000,
             "_id": "62e075c23eb8770001fc4370"
         },
-        "id": "62e075c23eb8770001fc4370_9223370311882804603_tr",
+        "id": "62e075c23eb8770001fc4370_9223370311881072636_tr",
         "feel": 3,
-        "calorie": 24,
-        "duration": 592,
-        "startTime": 1724971378480,
-        "endTime": 1724971971204,
+        "calorie": 25,
+        "duration": 964,
+        "startTime": 1724972738589,
+        "endTime": 1724973703171,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -31,19 +31,17 @@
         },
         "eventInfos": [],
         "liveSessionId": null,
-        "doubtful": true,
-        "doubtfulTips": "系统检测到，你在同一时间上传多条不同的运动记录。为保证数据准确，请选择 1 条保留，其余的将为你删除。",
-        "doubtfulScore": 0.7,
-        "flags": [
-            98000
-        ],
+        "doubtful": false,
+        "doubtfulTips": "",
+        "doubtfulScore": 0.0,
+        "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE62avWocQRCEcz3F4VjBTk/PnzM/gEG5cXCGMxxYxvhOYDB+d99IRljwTbLVgZJW8NFbPTW1vffp7nD4ffs7HN6dLw/Hp8vp3eH94evx2+V0/1L+cjpeLw+nnx/P35+uz/9NW/n3v+v58XS5Hh9/PJf9v+qHX+fLS/FW+3MfR6lEqdGUTpS+n5IMn1jBR1YEDiszkDMEziCOoTgmqJM6cTKOWhZmbcFx5Ph+juEc+EacWzWag/240A/PQcF+itLPhhxDjgmcip6D81aFeVtwUJ+qzJsjB/2gCn7AnIb+1gR/s4Zujfp0RR/m4Lz18HnrqE8X9Ml4fgbqM8L1SRsawiwHP7m0ZSbl6NlOiXtK4S6XEl6rsxzs2yk1JrVwkuFRmuVoEoeFJKWFBYlnLwuzl3jKfZG1lZ745HJkSFJmWJAwc8/y/vO0SN2L2K343oLE56kI52nhEZU9ogoesSKxTlV5O8pI4viQlPyQ2Msb69QU3+OT27mnHv/O11mnrujEvjd49oYye4lItqHvzXLwybUNfW+Wg3OEcY4wKUcsSPx6ruSIxdPjhYMpG4cFyfDOneVwEp6nWY6ecl47mLR3wDvXOEeYkiM4l5tj3pvlYC83Xj6YtH3gieAcYVKOQC+3yj3V+J54BWHxOwhrPHtNmb0FiXtqSoZlnTrr1ON16uzlXfFyfnqDexrh77nGOcKkHLEgsZcPxcvx6eUNfW+Wd5My3ho5LZbiwnlakdD3svLdYkXCXJ6VfUTG85SNV/0WvuvPi48Xyj5iRcJslJV9BN/umXNElnIEJpbMOSIrOcIW33549lyZPfaIgr43y+EkzOWzvJ+EN2GurFNVfI8nouH9NMvhJO6pCT05bj4yf9DIyhcNZ4/o7BFd8IjF7I03e79X0q0crdNoTGrxpMGkIZDwPPmWiTTL+0m4zfG3zvtKupWDn56nyqQaT0KdZnk/CW8NN9bJBJ345HpmnbKgk2MK84znaZajSc49eXxPzrPn8bNXNiTdytGzV1inovgee0Th81SU88Q6VdapKjotSJ1JPdzLG3tEEzyC07J3Pk9d8XJ8o/bOOvV4nThHuJQjFiTWaSh3Lj89zhEu5QiciLKhTrMcTUqo0ywHP72S0PdmOZpk3JMpPeEbdTHWyRSd+Ld6nCOKkiNWpMKkItzurJPjnTvL4SRnkke7USmsUxF04s1H4RxRlByxIuGdO8u7SYtfpFbuqQo9rUjck5Ij+KtQaewRTfCIFYl7avE9dbxzZznaYTv31F96uvv8F5VC1TwaMQAA",
-            "averageHeartRate": 126.0,
-            "maxHeartRate": 143,
+            "heartRates": "H4sIAAAAAAAAE62bv4qlNwzF+32Ky9ZbfLYs2U6XBwhsH1JM4AYGsiHkzkIg5N1znQ1JFn5ufFRMoykO+o7+HMm637+73f54/t1u718fH18+P+7vb9/cfnr5+XH/8MX84/3l7fHx/tt3r798fvv7v2P+86+310/3x9vLp1+XtV7/s377++vji/Fp+/PDCYgTSLkI5WlNhnGE8XOYhjCBMHEOU5AZQ2osG6YjTD+HuQjGMNDsPNL6IJiGkdaESMOP1jDSmhBpRjCO3rjgDcMgNy5UgUCYiTAzGSaQmxC4YZiBMCMZpqM3PdubjlWgC1UAK/QoBPO05lboiXkzs/vNRG5mNjcTI21mR1q5Gnfplg7EDfQSOihqm1Iw3JY5GwjTZ5mTgSpzVM85mtiuS8WgW+ZkIBYGRVAGm09nHHV2HnUTtUFpHHVNiDrUOqVhQ13m5E/HAqEICmFWBmKOXOCIoy6YoxA44pEkmKPIVj2lM0ddyCOefjp71AWPOgINHueG0F83QFzrhtBhOY8mV++ZXr0nczTPOWKgypqhCpqBi2q9eEy9zjvsxIStvESowhZhYh7Vghwt8zEQTnd1s0gQNgkbIEPZvczJn86wei9zcjDwOqEK+4QdEOdRE/II20Rt2GGXORnIOepciDqs3pU1Q1U0A3vEmqEKmmGTR8G1LoRah3KrdvaoZ89HtWOHXebkfjQ46kZ6reMVQxV2DDsg5miec1QubLHGLdaEFvv13v8/JJ7LTZjLOWWtYNwtc7ZLPJibMphjubOKsmGZk78dN1lLb7LGTdaUJsseNX6DaMIYi/rEuMma0mQZyJkjFzjCTmHOtcGzF1zG23tT1vcM1DnqurAk3gAxR+lN1ngwN2Uwx72TDa51I3uMtcFRN7KFkHGTNaHJbkrQ5MowzyvDppu3i58or/NE2iHx634Tnve3SKjulvkcCQtrY+HQJOGAodd4Om/CdL6RKI3H8yaM51skbLRN2OlPLHnNsOQtc7ZLrB2aoB3KhSWi8Va/CVv9cqGUbDyiN2FE3yJxOrmSTnz/wfqhCfphi4SlfJmzI6IzT13haYPEPvX89jQ4n4ZQIjBxnfugC31wc93CbdCVKzdMJi8ov5Y5Gwiz1oUmyPLLK3NUhZ07Rp3zq7anv2q7sUeW7hEPz64MzxsgLELLfAyE0ss3R2/C1RvvHZzbnysbav503P1c6H48AXqwRyHcjDIQD8+ePjw7D88uDM8bjnh4dmF43lQG3lC7sqFmj/hV24VX7Y1Hk89HZ/YFj/Ortguv2gwUF3q0zLmaIVgzhKIZNkDsUcn3CBVkKNfxWL2jskc1+7cLwQfyoVzIY8IGa4YQNMMGiDVDpF/JB2uGEDQDH7AHz8yhXMIxEF/CRfqtfPCxfORfywd7FIJHOC/H5mBeuZjn6s0n86HczG+AuNYJ0/Lm07FmCEUzYCsPXriHsHDnI8KYzQnoac4GCgaKZKB+OQEtc27CPqUvAj3N2UDsURE8wj1DL5OBZjZQLQj0NB/nEbaJbsyRCRxhZejGHFk6R8YcmcARe9SYo3bO0QbImSMXOOJP58ZAll2CnDlygSOUxD0qAj3Np0D8a87emaMucIRKtXfsR8t8DIQdtg/2aKR7NJijcc7RDqgzUD8Hwi1xn+zRFKIOdV2fnEdTyCMMhnFhrVvm3MowLvRomZOBCnK0zLklaBSMumVOBqpYGZY5GwiV6jIfA2F4D+OoM0EFYcIOY4/s3COWW4M1w1A0A3861gxD0QyovYdz1LkQdRsgziMX8og5CvYoBI82QBx1IeQRA3WOun4eddyPBmuGoWgGTtjBHA2Bow0QczSEyoDae/D4P4Tx/+vx+1+kyb18Cr28FBRc80KflvkcCWma3GSn0GR3SBUFyjIvpHc//AU0KnDh8UgAAA==",
+            "averageHeartRate": 90.0,
+            "maxHeartRate": 112,
             "wearableDevices": [
                 {
-                    "macAddress": "EA8E7A32-04FC-4DA6-89FB-E20E92D57867",
+                    "macAddress": "8068D96A-74A4-4EBD-9FB9-48EC2DAA1A36",
                     "name": "Apple Watch Series 6",
                     "deviceType": "Apple Watch"
                 }
